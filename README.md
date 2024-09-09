@@ -8,9 +8,9 @@ Feel free to explore and adapt the notebook to suit your specific use case.
 
 In addition to the compilation notebook, two more notebooks are provided:
 
-Text-to-Image Inference Notebook: This notebook demonstrates how to inference the compiled SDXL model using the text-to-image method in an AWS SageMaker notebook environment.
+1. Text-to-Image Inference Notebook: This notebook demonstrates how to inference the compiled SDXL model using the text-to-image method in an AWS SageMaker notebook environment.
 
-Image-to-Image Inference Notebook: This notebook showcases the inference process for the compiled SDXL model using the image-to-image method in AWS SageMaker.
+2. Image-to-Image Inference Notebook: This notebook showcases the inference process for the compiled SDXL model using the image-to-image method in AWS SageMaker.
 
 These resources are available for reference and adaptation to suit various use cases involving AWS Neuron and SageMaker.
 
